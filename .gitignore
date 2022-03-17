@@ -20,7 +20,10 @@ src/declarations
 
 # graphics
 content/
+<<<<<<< HEAD
 content2/
+=======
+>>>>>>> e86141b5f8ad99ca43e74f9b65028138a04813aa
 thumb/
 
 

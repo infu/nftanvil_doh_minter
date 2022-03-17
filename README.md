@@ -1,5 +1,4 @@
 # nftanvil_doh_minter
-
 Mints Anvil Protocol NFTs
 
 # Step by step
