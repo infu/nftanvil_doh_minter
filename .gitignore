@@ -1,0 +1,39 @@
+# Various IDEs and Editors
+.vscode/
+.idea/
+**/*~
+
+# Mac OSX temporary files
+.DS_Store
+**/.DS_Store
+
+# dfx temporary files
+.dfx/
+
+# dependencies
+node_modules
+build
+cjs
+.vessel
+.env
+src/declarations
+
+# graphics
+content/
+content2/
+thumb/
+
+
+# private key
+identity.json
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
