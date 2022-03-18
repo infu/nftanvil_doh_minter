@@ -12,6 +12,8 @@ Mints Anvil Protocol NFTs
 8) Edit src/mint.js and map each data record to nft metadata record
 9) Place ICP in your copied address
 10) `yarn start` again will start minting one nft for each record in data.json. Start with few to make sure everything is good
-11) It will mint images asynchroneously and shouldn't take more than a hour to mint 10k
-12) TODO: make a function to return back whats left from the ICP after minting 
+11) It will mint images asynchroneously and shouldn't take more than an hour to mint 10k
+12) TODO: make a function which checks if all nfts were minted and their graphics uploaded. Burn fails and mint the missing.
+13) TODO: make a function which returns back whats left from the ICP after minting
+14) TODO: make a function which generates gift links from all minted nfts
 
