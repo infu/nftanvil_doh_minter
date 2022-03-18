@@ -3,7 +3,7 @@ Mints Anvil Protocol NFTs
 
 # Step by step
 
-1) `yarn start` to get a private key and address generated. Address will be in identity.json (Keep it secret)
+1) `yarn address` to get a private key and address generated. Address will be in identity.json (Keep it secret)
 2) Copy the address for later
 3) Place big images in `content/` folder
 5) Place thumb images in `thumb/` folder (They need to have the same coresponding filenames)
